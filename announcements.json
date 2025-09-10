@@ -2,23 +2,7 @@
   "announcements": [
     {
       "id": 1,
-      "title": "NVI GITHUB Projesi",
-      "message": "Bu Proje Hiç bir Sekilde Veri İhali yapmamaktadır sadece Deneme amaçlı Kimlik Kontrol TEST Yazılımıdır.",
-      "type": "info",
-      "priority": "high|normal",
-      "date": "2025-01-09 14:30:00",
-      "author": "Mert K",
-      "icon": "fas fa-icon-name",
-      "link": "https://github.com/MertKyaa57/nvi/"
-    }
-  ]
-}
-
-{
-  "announcements": [
-    {
-      "id": 1,
-      "title": "NVI GITHUB Projesi",
+      "title": "NVI TEST GITHUB Projesi",
       "message": "Bu Proje Hiç bir Sekilde Veri İhali yapmamaktadır sadece Deneme amaçlı Kimlik Kontrol TEST Yazılımıdır.",
       "type": "info",
       "priority": "high|normal",
