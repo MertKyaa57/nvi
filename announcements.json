@@ -1,1 +1,15 @@
-TEST
+{
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Başlık",
+      "message": "Duyuru mesajı",
+      "type": "info|success|warning|error",
+      "priority": "high|normal",
+      "date": "2025-01-09 14:30:00",
+      "author": "Yazar Adı",
+      "icon": "fas fa-icon-name",
+      "link": "https://detay-linki.com"
+    }
+  ]
+}
